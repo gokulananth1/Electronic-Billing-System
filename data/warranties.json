@@ -1,0 +1,50 @@
+[
+  {
+    "serialNumber": "SN-OOP-879910",
+    "invoiceId": "INV-20260924-101",
+    "productId": "P12279",
+    "productName": "OOPO Reno 10 5G",
+    "brand": "OOPO",
+    "customerName": "Gokul",
+    "customerPhone": "9080560478",
+    "purchaseDate": "2026-09-24",
+    "warrantyMonths": 12,
+    "expiryDate": "2027-09-24"
+  },
+  {
+    "serialNumber": "SN-SAM-396236",
+    "invoiceId": "INV-20260924-102",
+    "productId": "P1002",
+    "productName": "Galaxy S24 Ultra (512GB)",
+    "brand": "Samsung",
+    "customerName": "Ananth",
+    "customerPhone": "7418677747",
+    "purchaseDate": "2026-09-24",
+    "warrantyMonths": 12,
+    "expiryDate": "2027-09-24"
+  },
+  {
+    "serialNumber": "SN-SAM-396237",
+    "invoiceId": "INV-20260924-102",
+    "productId": "P1002",
+    "productName": "Galaxy S24 Ultra (512GB)",
+    "brand": "Samsung",
+    "customerName": "Ananth",
+    "customerPhone": "7418677747",
+    "purchaseDate": "2026-09-24",
+    "warrantyMonths": 12,
+    "expiryDate": "2027-09-24"
+  },
+  {
+    "serialNumber": "SN-SAM-396238",
+    "invoiceId": "INV-20260924-102",
+    "productId": "P1002",
+    "productName": "Galaxy S24 Ultra (512GB)",
+    "brand": "Samsung",
+    "customerName": "Ananth",
+    "customerPhone": "7418677747",
+    "purchaseDate": "2026-09-24",
+    "warrantyMonths": 12,
+    "expiryDate": "2027-09-24"
+  }
+]

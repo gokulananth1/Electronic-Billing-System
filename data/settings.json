@@ -1,0 +1,12 @@
+{
+  "storeName": "Billing Pro",
+  "tagline": "Premium Gadgets, Mobiles & Smart Appliances",
+  "address": "12.A Kadathur,Dharmapuri- 635303",
+  "phone": "+91 9080560478",
+  "email": "gokul72700@gmail.com",
+  "gstin": "29ABCDE1234F1Z5",
+  "currencySymbol": "₹",
+  "defaultTaxRate": 18.0,
+  "invoiceFooter": "Thank you for shopping !!",
+  "termsAndConditions": "1. Goods once sold are covered by manufacturer warranty as stated.\n2. Physical damage, water damage, or electrical surge voids warranty.\n3. Original bill and Serial Number are mandatory for warranty claims."
+}
